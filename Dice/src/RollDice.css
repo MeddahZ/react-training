@@ -1,0 +1,16 @@
+.RollDice{
+    text-align: center;
+}
+.RollDice-Dice{
+    display: flex;
+ 
+    justify-content: center
+}
+.RollDice button {
+    border-radius: 10px;
+    padding: 30px;
+    width: 15%;
+    border: 0ch;
+    background-color: blueviolet;
+    color: white;
+}
